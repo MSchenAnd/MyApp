@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <com.wuxianedu.wechat.widgt.ClearEditText android:id="@+id/contact_search" 
+         android:layout_width="match_parent"
+        android:layout_height="40dp" android:hint="@string/contact_edit" 
+        android:textSize="15dp"	android:paddingLeft="40dp"
+        android:layout_margin="20dp" android:background="@drawable/contacts_search"
+        android:drawableRight="@drawable/contact_search_button"
+        android:paddingRight="10dp" />
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:src="@drawable/search_icon" android:layout_alignTop="@id/contact_search"
+        android:layout_alignLeft="@id/contact_search" android:layout_marginTop="11dp"
+        android:layout_marginLeft="13dp"/>
+     
+   		<TextView android:id="@+id/contacts_username" style="@style/contacts_list" 
+   		    android:text="@string/contact_addnewf" android:layout_marginTop="1dp" 
+	        android:drawableLeft="@drawable/icon_addfriend" android:drawablePadding="10dp"
+	        android:paddingLeft="10dp" android:layout_below="@id/contact_search"/>
+   		
+   		<TextView android:id="@+id/contacts_username2" style="@style/contacts_list" 
+   		    android:text="@string/contact_ql" android:layout_marginTop="1dp"
+   		    android:drawableLeft="@drawable/icon_qunliao"  android:paddingLeft="10dp"
+   		    android:drawablePadding="10dp" android:layout_below="@id/contacts_username"/> 
+   		    
+   		<TextView android:id="@+id/contacts_username3" style="@style/contacts_list" 
+   		    android:text="@string/contact_gzh" android:layout_marginTop="1dp"
+   		    android:drawableLeft="@drawable/icon_public"  android:paddingLeft="10dp"
+   		    android:drawablePadding="10dp" android:layout_below="@id/contacts_username2"/> 
+   
+     
+     
+</RelativeLayout>

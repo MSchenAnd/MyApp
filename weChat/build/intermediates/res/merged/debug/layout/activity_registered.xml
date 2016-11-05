@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/login_bg_color">
+    <include android:id="@id/registered_tile" layout="@layout/activity_title"/>
+    
+	
+	<RelativeLayout android:id="@id/registered_but_and_edit" android:layout_width="match_parent"
+	    android:layout_height="wrap_content" android:layout_below="@id/registered_tile"
+	   android:layout_margin="20dp">
+	    
+	    <TextView android:id="@id/registered_area" style="@style/login_text_bold"
+	        android:text="@string/registered_area_text" android:layout_marginLeft="10dp"/>
+	    
+	    <TextView android:id="@id/registered_china"  android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" android:textSize="19dp"
+	        android:text="@string/registered_area_China" android:layout_toRightOf="@id/registered_area"
+	        android:layout_alignParentRight="true" android:gravity="right"
+	        android:textColor="@color/green" android:layout_marginRight="13dp"/>
+	    
+	    <View android:id="@id/registered_line" android:layout_width="match_parent"
+	        android:layout_height="0.5dp" android:background="@color/login_line"
+	        android:layout_below="@id/registered_area" android:layout_marginTop="5dp"/>
+	    
+	    <ImageView android:id="@id/login_area_but" style="@style/normalLayout"
+	         android:src="@drawable/spinner" android:layout_alignBottom="@id/registered_line"
+	         android:layout_alignParentRight="true"/>
+	    
+	    
+<!--  -->
+	     
+	    <TextView android:id="@id/registered_user_text" style="@style/login_text_bold"
+	        	android:text="@string/registered_phon" android:layout_below="@id/registered_line"
+	        	android:layout_marginLeft="30dp" android:layout_marginTop="30dp"/>
+	    
+	    <EditText android:id="@id/registered_user" style="@style/widthLayout"
+	        android:background="@drawable/login_edit" android:layout_marginTop="40dp"
+	        android:paddingLeft="95dp" android:hint="@string/registered_user_hint"
+	        android:textSize="18dp" android:singleLine="true"/>
+	    
+	    
+	    <TextView android:id="@id/registered_text" style="@style/login_text_bold"
+	        	android:text="@string/registered_codes" android:layout_below="@id/registered_user"
+	        	android:layout_marginLeft="20dp" android:layout_marginTop="37dp"/>
+	  
+	     <Button android:id="@id/registered_get_registered" android:layout_width="80dp"
+	        android:layout_height="30dp" android:text="@string/registered_codes_gt"
+	        android:layout_alignBottom="@id/registered_text" android:layout_alignParentRight="true"
+	        android:background="@drawable/button_green" android:textColor="@color/with"
+	        android:layout_marginRight="5dp"/>
+	     
+	    <EditText android:id="@id/registered_registered" style="@style/widthLayout"
+	        android:background="@drawable/login_edit" android:layout_marginTop="15dp"
+	        android:paddingLeft="95dp" android:hint="@string/registered_codes_hint"
+	        android:textSize="18dp" android:layout_below="@id/registered_user"/>
+	    
+	    
+	   
+	    <TextView android:id="@id/registered_pass_text" style="@style/login_text_bold"
+	        	android:text="@string/login_pass" android:layout_below="@id/registered_registered"
+	        	android:layout_marginLeft="30dp" android:layout_marginTop="40dp"/>
+	    
+	    <EditText android:id="@id/registered_pass" style="@style/widthLayout"
+	        android:background="@drawable/login_edit" android:layout_marginTop="20dp"
+	        android:paddingLeft="95dp" android:hint="@string/registered_pass_hint"
+	        android:textSize="18dp" android:layout_below="@id/registered_registered"
+	         android:password="true" android:singleLine="true"/>
+	    
+	    
+	    <Button android:id="@id/registered_but" style="@style/widthLayout" 
+	        android:background="@drawable/button_green" android:text="@string/registered_button"
+	        android:layout_below="@id/registered_pass" android:layout_marginTop="25dp"
+	        android:textColor="@color/with" android:textSize="18dp" />
+	    
+	</RelativeLayout>
+	
+	
+</RelativeLayout>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">WeChat</string>
+    <!-- 标题栏 -->
+     	<string name="title_text">登录</string>
+     	<string name="title_regtext">登录</string>
+
+     <!-- 登录页面 -->	
+     	<string name="login_area_text">国家和地区</string>
+     	<string name="login_area_China">中国</string>
+   		<string name="login_phon">+86</string>
+   		<string name="login_user_hint">你的手机号</string>
+    	<string name="login_pass">密码</string>
+   		<string name="login_pass_hint">填写密码</string>
+   		<string name="login_button">登录</string>
+   		<string name="login_problem">登录遇到问题？</string>
+   		<string name="login_registered">注册</string>
+   		
+    <!-- 注册页面registered -->
+   		<string name="registered_title">注册</string>
+   		<string name="registered_area_text">国家和地区</string>
+     	<string name="registered_area_China">中国</string>
+   		<string name="registered_phon">+86</string>
+   		<string name="registered_user_hint">你的手机号</string>
+    	<string name="registered_pass">密码</string>
+   		<string name="registered_pass_hint">填写密码</string>
+   		<string name="registered_button">注册</string>
+   		<string name="registered_problem">登录遇到问题？</string>
+   		<string name="registered_registered">注册</string>
+   		<string name="registered_codes">验证码</string>
+   		<string name="registered_codes_hint">请输入验证码</string>
+   		<string name="registered_codes_gt">发送验证码</string>
+   		<!-- 设置页面install -->
+   		<string name="install_title_text">设置</string>
+   		<string name="install_account_security">账号安全</string>
+   		<string name="install_latest_notifications">最新通知</string>
+   		<string name="install_privacy">隐私</string>
+   		<string name="install_common">通用</string>
+   		<string name="install_about_wechat">关于微信</string>
+   		<string name="install_but_text">退出登录</string>
+   		<string name="install_tut_exit">退出微信</string>
+   
+   		<!-- 微信 -->
+    	<string name="main_weixin">微信</string>
+    	<string name="main_contact">通讯录</string>
+    	<string name="main_find">发现</string>
+    	<string name="main_me">我的</string>
+    	<string name="main_popu_fqql">发起群聊</string>
+    	<string name="main_popu_addf">添加朋友</string>
+    	<string name="main_popu_sao">扫一扫</string>
+    	<string name="main_popu_pay">微信支付</string>
+    	
+    	<!-- 我的 -->
+    	<string name="me_username">无限互联-登录</string>
+    	<string name="me_usernum">微信号:</string>
+    	<string name="me_phon_gallery">相册</string>
+    	<string name="me_collect">收藏</string>
+    	<string name="me_wallet">钱包</string>
+    	<string name="me_card_pack">卡包</string>
+    	<string name="me_expression">表情</string>
+    	<string name="me_install">设置</string>
+    	
+    	<!-- 发现 -->
+    	<string name="find_pyq">朋友圈</string>
+    	<string name="find_sao">扫一扫</string>
+    	<string name="find_yao">摇一摇</string>
+    	<string name="find_jfr">附近的人</string>
+    	<string name="find_plp">漂流瓶</string>
+    	<string name="find_gw">购物</string>
+    	<string name="find_yx">游戏</string>
+    	
+    	<!-- 朋友圈 -->
+    	<string name="pyq_title">朋友圈</string>
+    	
+    	<!-- 图片浏览 -->
+    	<string name="picture_title">图片浏览</string>
+    	
+    	<!-- 通讯录 -->
+    	<string name="contact_edit">搜索</string>
+    	<string name="contact_addnewf">添加新朋友</string>
+    	<string name="contact_gzh">公众号</string>
+    	<string name="contact_ql">群聊</string>
+    	
+    	
+    	
+    	<!-- 群聊 -->
+    	<string name="groupchate_title">群聊</string>
+    	<string name="groupchate_titleright_text">确定</string>
+    	<string name="groupchate_choose_group">选择一个群</string>
+    	
+    	
+    	<!-- 新的朋友 -->
+    	<string name="newfriend_phone">添加手机联系人</string>
+    	<string name="newfriend_qq">添加QQ好友</string>
+    	<string name="newfriend_but">添加好友</string>
+    	<string name="newfriend_but1">已添加</string>
+    	<string name="newfriend_text">新的朋友</string>
+    	<string name="newfriend_titletext">新的朋友</string>
+    	<string name="newfriend_righttext">添加朋友</string>
+    	<string name="newfriend_searchbut">搜索</string>
+    	
+    	<!-- 用户详情  -->
+    	<string name="userdetails_title">详细资料</string>
+    	<string name="userdetails_id">微信号：</string>
+    	<string name="userdetails_area_text">地区</string>
+    	<string name="userdetails_signature_text">个性签名</string>
+    	<string name="userdetails_gallery_text">个人相册</string>
+    	<string name="userdetails_message">发送消息</string>
+    	
+    	<!-- 订阅号 -->
+    	<string name="subscription_title">订阅号</string>
+    	<string name="subscription_read">阅读全文</string>
+    	
+    	<!-- 聊天 -->
+    	<string name="chat_tallkbut">按住说话</string>
+    	<string name="chat_tallkbut_send">发送</string>
+    	
+    	
+</resources>

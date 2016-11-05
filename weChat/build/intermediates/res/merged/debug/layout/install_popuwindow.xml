@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" 
+    android:background="#70EBAAF6" android:padding="20dp">
+    <TextView android:id="@+id/content" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="@string/install_but_text"
+        android:layout_centerHorizontal="true" android:textSize="20dp"/>
+    <View android:id="@+id/line" android:layout_width="match_parent"
+        android:layout_height="0.7dp" android:layout_below="@id/content"
+        android:background="@color/with"/>
+    <TextView android:id="@+id/exitweixin" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="@string/install_tut_exit"
+        android:layout_below="@id/line" android:layout_centerHorizontal="true"
+        android:textSize="20dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/install_bg_color">
+    <include android:id="@id/install_title" layout="@layout/activity_title"/>
+    
+	<RadioGroup android:id="@id/install_Radio" android:layout_width="match_parent"
+	    android:layout_height="wrap_content" android:orientation="vertical"
+	    android:layout_below="@id/install_title" android:layout_marginTop="20dp">
+	    
+	    <RadioButton android:id="@id/install_Radio_account_security" android:layout_width="match_parent"
+	        android:layout_height="55dp" android:button="@null" 
+	        android:text="@string/install_account_security" android:background="@color/with"
+	        android:drawableRight="@drawable/right" android:padding="15dp"
+	        android:textSize="20dp" />
+	    	
+	    <RadioButton android:id="@id/install_Radio_latest_notifications" android:layout_width="match_parent"
+	        android:layout_height="55dp" android:button="@null" 
+	        android:text="@string/install_latest_notifications" android:background="@color/with"
+	        android:drawableRight="@drawable/right" android:padding="15dp"
+	        android:textSize="20dp" android:layout_marginTop="20dp"/>
+	    
+	     <View android:layout_width="match_parent" android:layout_height="0.5dp"
+	         android:background="@color/gray" android:layout_below="@id/login_area"/>
+	     
+	     <RadioButton android:id="@id/install_Radio_privacy" android:layout_width="match_parent"
+	        android:layout_height="55dp" android:button="@null" 
+	        android:text="@string/install_privacy" android:background="@color/with"
+	        android:drawableRight="@drawable/right" android:padding="15dp"
+	        android:textSize="20dp" />
+	      <View android:layout_width="match_parent" android:layout_height="0.5dp"
+	         android:background="@color/gray" android:layout_below="@id/login_area"/>
+	      <RadioButton android:id="@id/install_Radio_common" android:layout_width="match_parent"
+	        android:layout_height="55dp" android:button="@null" 
+	        android:text="@string/install_common" android:background="@color/with"
+	        android:drawableRight="@drawable/right" android:padding="15dp"
+	        android:textSize="20dp" />
+	      
+	      <RadioButton android:id="@id/install_Radio_about_wechat" android:layout_width="match_parent"
+	        android:layout_height="55dp" android:button="@null" 
+	        android:text="@string/install_about_wechat" android:background="@color/with"
+	        android:drawableRight="@drawable/right" android:padding="15dp"
+	        android:textSize="20dp" android:layout_marginTop="20dp"/>
+	</RadioGroup>
+	
+	<Button android:id="@id/install_login_but" android:layout_width="match_parent"
+	    android:layout_height="50dp" android:background="@drawable/install_login_button"
+	    android:layout_below="@id/install_Radio" android:text="@string/install_but_text"
+	    android:layout_margin="20dp" android:textSize="18dp" android:textColor="@color/with"/>
+</RelativeLayout>

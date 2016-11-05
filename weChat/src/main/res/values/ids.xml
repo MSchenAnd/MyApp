@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+  <!-- 标题栏-->
+   	<item type="id" name="tile_butleft" />
+   	<item type="id" name="tile_butright" />
+    <item type="id" name="title_tv_mid"/>
+    <item type="id" name="title_tv_right"/>
+    
+  <!-- 登录Login页面 -->
+	<item type="id" name="login_tile" />
+	<item type="id" name="login_but_and_edit"/>
+	<item type="id" name="login_area"/>
+	<item type="id" name="login_china"/>
+	<item type="id" name="login_area_but"/>
+	<item type="id" name="login_line"/>
+	<item type="id" name="login_user"/>
+	<item type="id" name="login_user_text"/>
+	<item type="id" name="login_pass"/>
+	<item type="id" name="login_pass_text"/>
+	<item type="id" name="login_but"/>
+	<item type="id" name="login_problem"/>
+	<item type="id" name="login_registered"/>
+	
+	
+	<!-- 注册registered页面 -->
+	<item type="id" name="registered_tile" />
+	<item type="id" name="registered_but_and_edit"/>
+	<item type="id" name="registered_area"/>
+	<item type="id" name="registered_china"/>
+	<item type="id" name="registered_area_but"/>
+	<item type="id" name="registered_line"/>
+	<item type="id" name="registered_user"/>
+	<item type="id" name="registered_user_text"/>
+	<item type="id" name="registered_pass"/>
+	<item type="id" name="registered_pass_text"/>
+	<item type="id" name="registered_but"/>
+	<item type="id" name="registered_problem"/>
+	<item type="id" name="registered_registered"/>
+	<item type="id" name="registered_get_registered"/>
+	<item type="id" name="registered_text"/>
+	
+	
+	<!-- 设置页面 -->
+	<item type="id" name="install_title"/>
+	<item type="id" name="install_Radio"/>
+	<item type="id" name="install_Radio_account_security"/>
+	<item type="id" name="install_Radio_latest_notifications"/>
+	<item type="id" name="install_Radio_privacy"/>
+	<item type="id" name="install_Radio_common"/>
+	<item type="id" name="install_Radio_about_wechat"/>
+	<item type="id" name="install_login_but"/>
+	
+	
+	
+	
+</resources>

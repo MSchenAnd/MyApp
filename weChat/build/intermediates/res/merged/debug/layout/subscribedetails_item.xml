@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <TextView android:id="@+id/sd_time" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:background="@drawable/subscription_details_time"
+        android:textColor="@color/with" android:text="欧诺个爱国" android:padding="5dp"
+        android:layout_margin="20dp" android:layout_centerHorizontal="true"/>
+    <RelativeLayout android:id="@+id/subscribedetails_details" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:background="@color/with"
+        android:layout_below="@id/sd_time" android:layout_margin="10dp"
+        android:padding="20dp">
+        
+        <TextView android:id="@+id/sb_username" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:textColor="@color/black"
+            android:text="公司能访问速度"/>
+        <TextView android:id="@+id/sb_time" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:textColor="@color/weixin_text_color"
+            android:text="foiwanf" android:layout_below="@id/sb_username" 
+            android:layout_marginTop="7dp"/>
+         <ImageView android:id="@+id/sb_image" android:layout_width="match_parent"
+             android:layout_height="150dp" android:src="@drawable/user_ba"
+             android:layout_below="@id/sb_time" android:layout_marginTop="7dp"/>
+		<TextView android:id="@+id/sb_content" android:layout_width="match_parent"
+		    android:layout_height="wrap_content" android:layout_below="@id/sb_image"
+		    android:text="功能服务费红红发热袜懂撒而非one防盗WFEOI你DEVSW哦按让哦闹热爱和哦按非我方亏本地方
+		    哦按佛恩挖坟欧in买家纷纷入弄撒而非沙发两次呢度" android:singleLine="true"
+		    android:layout_marginTop="5dp"/>
+		<View android:id="@+id/sb_line" android:layout_width="match_parent"
+		    android:layout_height="0.5dp" android:background="@color/subscribedetails_line"
+		    android:layout_below="@id/sb_content"/>
+		<TextView android:id="@+id/sb_readmore" android:layout_width="wrap_content"
+		    android:layout_height="wrap_content" android:text="@string/subscription_read"
+		    android:textColor="@color/black" android:layout_below="@id/sb_line"
+		    android:layout_marginTop="10dp"/>
+		<ImageView  android:id="@+id/sb_rightbut" android:layout_width="wrap_content"
+		    android:layout_height="wrap_content" android:src="@drawable/right"
+		    android:layout_below="@id/sb_line" android:layout_marginTop="10dp"
+		    android:layout_alignParentRight="true"/>
+       
+        
+    </RelativeLayout>
+
+</RelativeLayout>

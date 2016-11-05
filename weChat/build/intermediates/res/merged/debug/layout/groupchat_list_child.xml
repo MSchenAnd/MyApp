@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="70dp" 
+    android:background="@color/with">
+   
+ 	<TextView android:id="@+id/groupchat_child_first" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:textSize="20dp"
+        android:text="A" android:background="@color/gray"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="5dp"/>
+ 	
+ 	<RelativeLayout android:id="@+id/groupchat_sub" android:layout_width="match_parent"
+ 	    android:layout_height="0dp"></RelativeLayout>
+ 	 <CheckBox android:id="@+id/groupchat_checkbox" android:layout_width="wrap_content"
+ 	     android:layout_height="wrap_content" android:button="@drawable/groupchat_chackbox_select"
+ 	     android:layout_below="@id/groupchat_child_first" android:layout_marginTop="17dp"
+ 	     android:layout_marginLeft="10dp" android:focusable="false" 
+ 	     android:clickable="false"/>
+ 	 
+    <com.wuxianedu.wechat.widgt.RoundImageView android:id="@+id/groupchat_imag"
+        android:layout_width="55dp" android:layout_height="55dp"
+        android:src="@drawable/user_ba" android:layout_centerVertical="true"
+        android:layout_below="@id/groupchat_child_first" android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/groupchat_checkbox"
+        android:layout_marginTop="4.5dp" android:layout_marginBottom="5dp" />
+    
+    <TextView android:id="@+id/groupchat_username" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="叫呢个人该金融"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/groupchat_imag" android:textSize="15dp"
+        android:layout_alignTop="@id/groupchat_imag" android:layout_marginTop="14dp"
+        android:layout_marginLeft="10dp"/>
+</RelativeLayout>

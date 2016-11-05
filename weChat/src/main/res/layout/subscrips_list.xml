@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="75dp"
+    android:background="@color/with" >
+    <com.wuxianedu.wechat.widgt.RoundImageView android:id="@+id/subscrips_img" 
+        android:layout_width="50dp" android:layout_height="50dp"
+        android:layout_centerVertical="true"  android:src="@drawable/icon_public"
+       android:layout_alignParentLeft="true" android:layout_marginRight="15dp"
+       android:layout_marginLeft="10dp" android:layout_marginTop="5dp"
+       android:layout_marginBottom="5dp"/>
+    <TextView android:id="@+id/subscrips_news" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:background="@drawable/aii"
+        android:layout_alignRight="@id/subscrips_img"
+        android:textColor="@color/with" android:gravity="center"
+        android:layout_alignTop="@id/subscrips_img"/>
+    
+    <TextView android:id="@+id/subscrips_username" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:textColor="@color/black"
+        android:text="王博" android:layout_toRightOf="@id/subscrips_img"
+        android:layout_marginTop="10dp" />
+    <TextView android:id="@+id/subscrips_lasttime" style="@style/weixin_lasttime"
+         android:text="王博" android:layout_alignParentRight="true"
+         android:layout_alignTop="@id/subscrips_username" android:layout_marginRight="10dp"
+         android:textColor="@color/weixin_text_color" android:textSize="11dp"/>
+    
+    <TextView android:id="@+id/subscrips_laststring" style="@style/weixin_autograph"
+        android:text="王博" android:layout_marginTop="5dp"
+        android:layout_below="@id/subscrips_username" android:layout_alignLeft="@id/subscrips_username"
+        android:layout_marginBottom="5dp" android:textColor="@color/weixin_text_color"
+        android:layout_marginRight="10dp"/>
+
+</RelativeLayout>

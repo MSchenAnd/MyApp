@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <Button android:id="@+id/search_button" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="@string/newfriend_searchbut"
+         android:textColor="@color/with" android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp" android:textSize="18dp"
+        android:background="@drawable/button_green" android:layout_marginRight="6dp"/>
+    <com.wuxianedu.wechat.widgt.ClearEditText android:id="@+id/newfriend_search" 
+        android:layout_width="match_parent"  android:layout_height="35dp"
+        android:hint="@string/contact_edit" android:paddingRight="10dp" 
+        android:textSize="15dp"	android:paddingLeft="40dp"
+        android:layout_margin="20dp" android:background="@drawable/contacts_search"
+        android:drawableRight="@drawable/contact_search_button" android:layout_toLeftOf="@id/search_button"/>
+
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:src="@drawable/search_icon" android:layout_alignTop="@id/newfriend_search"
+        android:layout_alignLeft="@id/newfriend_search" android:layout_marginTop="11dp"
+        android:layout_marginLeft="13dp"/>
+    
+    <LinearLayout android:id="@+id/newfriend_addmanner" android:layout_width="match_parent"
+        android:layout_height="80dp" android:background="@color/with"
+        android:layout_below="@id/newfriend_search" android:orientation="horizontal">
+        <TextView android:id="@+id/newfriend_phonecontact" style="@style/newfriend_manner"
+            android:drawableTop="@drawable/a6_" android:text="@string/newfriend_phone"/>
+        <View android:layout_width="0dp" android:layout_height="match_parent"
+            android:background="@color/gray" android:layout_weight="0.02"/>
+        <TextView android:id="@+id/newfriend_qqcontact"  style="@style/newfriend_manner"
+            android:drawableTop="@drawable/a6a" android:text="@string/newfriend_qq" />
+    </LinearLayout>
+    <TextView android:layout_width="match_parent" android:layout_height="30dp"
+        android:layout_below="@id/newfriend_addmanner" android:paddingLeft="10dp"
+        android:text="@string/newfriend_text" android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"/>
+
+</RelativeLayout>

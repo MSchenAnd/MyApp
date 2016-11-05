@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    
+    <include android:id="@+id/groupchat_title" layout="@layout/activity_title"/>
+    <com.wuxianedu.wechat.widgt.HorizontalListView android:id="@+id/groupchar_hlistview"
+        android:layout_width="50dp" android:layout_height="50dp"
+        android:layout_below="@id/groupchat_title" android:background="@color/with"/>
+    <ImageView android:id="@+id/groupchar_searchigm" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_below="@id/groupchat_title"
+        android:src="@drawable/search_icon" android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+ 
+     <com.wuxianedu.wechat.widgt.ClearEditText android:id="@+id/groupchat_search" 
+         android:layout_width="match_parent" android:layout_below="@id/groupchat_title"
+        android:layout_height="50dp" android:hint="@string/contact_edit" 
+        android:textSize="15dp"
+        android:background="@color/with" android:drawableRight="@drawable/contact_search_button"
+        android:paddingRight="10dp" android:layout_toRightOf="@id/groupchar_hlistview" />
+   
+     <ListView android:id="@+id/groupchat_list" android:layout_width="match_parent"
+        android:layout_height="wrap_content"  android:layout_below="@id/groupchat_search"
+       	android:layout_marginTop="1dp"/>
+    
+    <com.wuxianedu.wechat.widgt.SideBar android:id="@+id/contact_sidebar" 
+        android:layout_width="40dp" android:layout_height="wrap_content" 
+        android:layout_alignParentRight="true" android:layout_marginTop="100dp"/>
+    
+	<TextView android:id="@+id/groupchat_text" android:layout_width="60dp"
+	    android:layout_height="60dp" android:textColor="@color/with"
+	    android:background="@drawable/contact_text" android:layout_centerInParent="true"
+	    android:textSize="30dp" android:gravity="center"
+	    android:visibility="gone"/>
+</RelativeLayout>

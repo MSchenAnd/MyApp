@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="with">#FFFFFF</color>
+    <color name="black">#020202</color>
+    <color name="green">#0CAC0C</color>
+    <color name="dark_green">#069806</color>
+    <color name="gray">#E9E9E9</color>
+    <!-- 标题栏 -->
+    <color name="title_bg_color">#2B2B2B</color>
+    <color name="title_button_bg_color">#2B2B2B</color>
+    <color name="title_button_press_color">#0D0D0D</color>
+    <!-- 登录页面login -->
+    <color name="login_line">#9B9B9B</color>
+    <color name="login_proplem_color">#34679A</color>
+   	<color name="login_registered_color">#EFEFEF</color>
+   	<color name="login_dark_registered_color">#E0DEDE</color>
+   	<color name="login_bg_color">#E9E9E9</color>
+   	
+   	<!-- 设置页面install -->
+   	<color name="install_bg_color">#E9E9E9</color>
+   	<color name="install_normal_but">#FC5050</color>
+   	<color name="install_press_but">#EB4444</color>
+   	
+   	<!-- 朋友圈 -->
+   	<color name="friend_username_color">#4CC4F7</color>
+   	
+   	<!-- 详细资料 -->
+   	<color name="userdetails_id_color">#6B6B6B</color>
+   	<color name="userdetails_line_color">#EEEEEE</color>
+   	
+   	
+   	<color name="sidebar_bg_color">#50A3A2A2</color>
+   	<color name="sidebar">#8F8F8F</color>
+   	
+   	
+   	<!-- 新朋友 -->
+   	<color name="newfriend_but">#C6C5C5</color>
+   	
+   	<!-- 微信 -->
+   	<color name="weixin_text_color">#757575</color>
+   	
+   	<!-- 订阅号详情 -->
+   	<color name="subscribedetails_time">#BDBDBD</color>
+   	<color name="subscribedetails_line">#AAAAAA</color>
+   	
+   	
+   	<!-- 聊天 -->
+   	<color name="chat_tallkbut_boder">#ACACAC</color>
+   	<color name="chat_tallkbut_putdown">#D9D9D9</color>
+   	<color name="chate_down">#F7F7F7</color>
+   	<color name="chate_tallk_time">#BDBDBD</color>
+   	<color name="chate_gridtext">#6B6B6B</color>
+   	<color name="chat_centervoice">#70656565</color>
+</resources>

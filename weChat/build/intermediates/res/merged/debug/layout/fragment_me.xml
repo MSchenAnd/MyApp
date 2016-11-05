@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:background="@color/gray">
+    <RelativeLayout android:id="@+id/me_userinfo" android:layout_width="match_parent"
+        android:layout_height="65dp" android:background="@color/with">
+        <com.wuxianedu.wechat.widgt.RoundImageView android:id="@+id/me_ui_imag" android:layout_width="50dp"
+           android:layout_height="50dp" android:src="@drawable/image_nor"
+           android:layout_centerVertical="true" android:layout_marginRight="7dp"
+           android:layout_marginLeft="10dp"/>
+        <TextView android:id="@+id/me_user_name" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:layout_marginTop="13dp"
+            android:textColor="@color/black" android:layout_toRightOf="@id/me_ui_imag" />
+        <ImageView android:id="@+id/me_user_sex" android:layout_width="20dp"
+            android:layout_height="20dp" android:src="@drawable/ic_sex_female"
+            android:layout_toRightOf="@id/me_user_name" android:layout_alignTop="@id/me_user_name"
+            android:layout_marginLeft="5dp"/>
+        <TextView android:id="@+id/me_user_num" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:textColor="@color/black" 
+            android:layout_toRightOf="@id/me_ui_imag" android:layout_below="@id/me_user_name"
+            android:text="@string/me_usernum"/>
+        <ImageView android:id="@+id/me_user_rightim" style="@style/me_imageright_style"
+             android:src="@drawable/right"/>
+    </RelativeLayout>
+     <RelativeLayout android:id="@+id/me_gallery" style="@style/me_child" 
+         android:layout_marginTop="15dp">
+         <ImageView android:id="@+id/me_gallery_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_me_photo"/>
+         <TextView android:id="@+id/me_gallery_tex" style="@style/me_child_text"
+ 				android:text="@string/me_phon_gallery" android:layout_toRightOf="@id/me_gallery_imag" />
+          <ImageView android:id="@+id/me_gallery_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+	 <RelativeLayout android:id="@+id/me_collect" style="@style/me_child" 
+	         android:layout_marginTop="1dp">
+	      <ImageView android:id="@+id/me_collect_imag" style="@style/me_imageleft_style"
+	             android:src="@drawable/icon_me_collect"/>
+	      <TextView android:id="@+id/me_collect_tex" style="@style/me_child_text"
+	          android:text="@string/me_phon_gallery" android:layout_toRightOf="@id/me_collect_imag" />
+	      <ImageView android:id="@+id/me_collect_rightim" style="@style/me_imageright_style" 
+	              android:src="@drawable/right"/>
+	  </RelativeLayout>
+	  
+	 <RelativeLayout android:id="@+id/me_wallet" style="@style/me_child" 
+	         android:layout_marginTop="1dp">
+	      <ImageView android:id="@+id/me_wallet_imag" style="@style/me_imageleft_style"
+	             android:src="@drawable/icon_me_money"/>
+	      <TextView android:id="@+id/me_wallet_tex" style="@style/me_child_text"
+	          android:text="@string/me_wallet" android:layout_toRightOf="@id/me_wallet_imag" />
+	      <ImageView android:id="@+id/me_wallet_rightim" style="@style/me_imageright_style" 
+	              android:src="@drawable/right"/>
+	  </RelativeLayout>
+	  
+	 <RelativeLayout android:id="@+id/me_card_pack" style="@style/me_child" 
+	         android:layout_marginTop="1dp">
+	      <ImageView android:id="@+id/me_card_pack_imag" style="@style/me_imageleft_style"
+	             android:src="@drawable/icon_me_card"/>
+	      <TextView android:id="@+id/me_card_pack_tex" style="@style/me_child_text"
+	          android:text="@string/me_card_pack" android:layout_toRightOf="@id/me_card_pack_imag" />
+	      <ImageView android:id="@+id/me_card_pack_rightim" style="@style/me_imageright_style" 
+	              android:src="@drawable/right"/>
+	  </RelativeLayout>
+    
+	 <RelativeLayout android:id="@+id/me_expression" style="@style/me_child" 
+         android:layout_marginTop="15dp">
+         <ImageView android:id="@+id/me_expression_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_me_smail"/>
+         <TextView android:id="@+id/me_expression_tex" style="@style/me_child_text"
+ 				android:text="@string/me_expression" android:layout_toRightOf="@id/me_expression_imag" />
+          <ImageView android:id="@+id/me_expression_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+     
+	 <RelativeLayout android:id="@+id/me_install" style="@style/me_child" 
+         android:layout_marginTop="15dp">
+         <ImageView android:id="@+id/me_install_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_me_setting"/>
+         <TextView android:id="@+id/me_install_tex" style="@style/me_child_text"
+ 				android:text="@string/me_install" android:layout_toRightOf="@id/me_install_imag" />
+          <ImageView android:id="@+id/me_install_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+
+</LinearLayout>

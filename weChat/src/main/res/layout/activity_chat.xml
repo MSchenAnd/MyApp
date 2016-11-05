@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" 
+    android:focusable="true" android:focusableInTouchMode="true"
+    android:id="@+id/root_id">
+    <include android:id="@+id/chat_title" layout="@layout/activity_title"/>
+   	<RelativeLayout android:id="@+id/chat_undereath" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+        android:background="@color/chate_down">
+        <Button android:id="@+id/chat_keyboardleft" android:layout_width="35dp"
+            android:layout_height="35dp" android:background="@drawable/chat_keyboard"
+            android:layout_marginLeft="10dp" android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp" android:visibility="gone" />
+        
+        <Button android:id="@+id/chat_voice" android:layout_width="35dp"
+            android:layout_height="35dp" android:background="@drawable/chat_voice"
+            android:layout_marginLeft="10dp" android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"/>
+        
+        <EditText android:id="@+id/chat_edit" android:layout_width="200dp"
+            android:layout_height="45dp" android:layout_marginLeft="55dp"
+            android:layout_marginBottom="10dp" android:background="@drawable/chat_edit" />
+        
+        <Button android:id="@+id/chat_tallk_but" android:layout_width="255dp"
+            android:layout_height="35dp" android:layout_marginLeft="55dp"
+            android:layout_marginTop="15dp" android:layout_marginBottom="3dp"
+            android:background="@drawable/chat_tallk_but" android:text="@string/chat_tallkbut"
+            android:textColor="@color/black" android:visibility="gone" />
+      
+        <Button android:id="@+id/chat_phiz" android:layout_width="35dp"
+            android:layout_height="35dp" android:background="@drawable/chat_phiz"
+             android:layout_marginTop="15dp" android:layout_marginLeft="7dp"
+            android:layout_toRightOf="@id/chat_edit"/>
+        
+        <Button android:id="@+id/chat_send" android:layout_width="45dp"
+            android:layout_height="30dp" android:background="@drawable/button_green"
+            android:text="@string/chat_tallkbut_send" android:textColor="@color/with"
+            android:layout_alignParentRight="true" android:layout_marginRight="5dp"
+            android:layout_marginTop="15dp"  android:visibility="gone"/>
+        
+        <Button android:id="@+id/chat_downmenu_but" android:layout_width="35dp"
+            android:layout_height="35dp" android:background="@drawable/chat_downmenu"
+             android:layout_marginTop="15dp" android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp" android:layout_marginBottom="5dp" />
+        
+        <GridView android:id="@+id/chat_downmewnu" android:layout_width="match_parent"
+   	    android:layout_height="200dp" android:background="#F6D4D4"  
+   	    android:layout_below="@id/chat_downmenu_but" android:visibility="gone"
+   	   	android:numColumns="3" android:horizontalSpacing="5dp"
+   	   	android:verticalSpacing="5dp"/>
+        
+        <GridView android:id="@+id/chat_face" android:layout_width="match_parent"
+   	    android:layout_height="200dp" android:background="#F6D4D4"  
+   	    android:layout_below="@id/chat_voice" android:visibility="gone"
+   	   	android:numColumns="6" android:verticalSpacing="10dp"
+   	   	android:paddingTop="10dp"/>
+    </RelativeLayout>
+    
+   	
+    <ListView android:id="@+id/chat_list" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:background="@color/install_bg_color"
+        android:layout_below="@id/chat_title"  android:layout_above="@id/chat_undereath"
+        android:transcriptMode="alwaysScroll" android:stackFromBottom="true"
+        android:outlineProvider="none" android:divider="@null" />
+	
+     <RelativeLayout android:id="@+id/centervoice" android:layout_width="120dp"
+   	    android:layout_height="120dp" android:background="@drawable/chat_center"
+   	    android:layout_centerInParent="true" android:visibility="gone">
+   	    <ImageView android:id="@+id/chat_macf" android:layout_width="70dp"
+   	       android:layout_height="70dp" android:src="@anim/voice_toast_anim"
+   	       android:layout_centerHorizontal="true"/>
+   	    <TextView android:id="@+id/centervoice_text" android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content" android:text="噢in斯嘎尔按规范雯雯"
+   	        android:textColor="@color/with" android:layout_below="@id/chat_macf"/>
+   	</RelativeLayout>
+</RelativeLayout>

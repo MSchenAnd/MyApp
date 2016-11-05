@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" >
+    
+    <include android:id="@+id/main_title" layout="@layout/activity_title"/>
+  
+   <RadioGroup android:id="@+id/main_rg"
+        android:layout_width="match_parent" android:layout_height="60dp" 
+        android:orientation="horizontal" android:layout_alignParentBottom="true"
+        android:background="@color/with" android:paddingTop="5dp" 
+        android:paddingBottom="5dp">
+        
+        <com.wuxianedu.wechat.widgt.MyRadioGroup android:id="@+id/main_rb_weixin" style="@style/Radio_style"
+            android:drawableTop="@drawable/weixin_selector1" android:text="@string/main_weixin"
+            android:checked="true" />
+         <com.wuxianedu.wechat.widgt.MyRadioGroup android:id="@+id/main_rb_contact" style="@style/Radio_style"
+             android:drawableTop="@drawable/contact_selector1" android:text="@string/main_contact"/>
+         
+         <com.wuxianedu.wechat.widgt.MyRadioGroup android:id="@+id/main_rb_find" style="@style/Radio_style"
+             android:drawableTop="@drawable/find_selector1" android:text="@string/main_find"/>
+         
+         <com.wuxianedu.wechat.widgt.MyRadioGroup android:id="@+id/main_rb_me" style="@style/Radio_style"
+             android:drawableTop="@drawable/me_selector1" android:text="@string/main_me"/>
+    </RadioGroup>
+    
+    <View android:id="@+id/main_line" android:layout_width="match_parent" 
+        android:layout_height="0.5dp" android:background="@color/gray"
+	   android:layout_above="@id/main_rg"/>
+    
+   <android.support.v4.view.ViewPager android:id="@+id/main_viewpager" android:layout_width="match_parent"
+       android:layout_height="wrap_content" android:layout_below="@id/main_title"
+       android:layout_above="@id/main_line"/>
+   
+   
+   
+</RelativeLayout>

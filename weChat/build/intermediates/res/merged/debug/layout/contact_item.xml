@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="80dp" 
+    android:background="@color/with">
+    <TextView android:id="@+id/contacts_first" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:textSize="20dp"
+        android:text="A" android:background="@color/gray"
+        android:paddingLeft="10dp"/>
+    <com.wuxianedu.wechat.widgt.RoundImageView android:id="@+id/contacts_imag"
+        android:layout_width="60dp" android:layout_height="60dp"
+        android:src="@drawable/user_ba" android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp" android:layout_below="@id/contacts_first"
+        android:layout_marginTop="5dp" android:layout_marginBottom="5dp"/>
+    
+    <TextView android:id="@+id/contacts_username" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="叫呢个人该金融"
+        android:layout_centerVertical="true" android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/contacts_imag" android:textSize="15dp"
+        android:layout_alignTop="@id/contacts_imag" android:layout_marginTop="14dp"
+        />
+
+</RelativeLayout>

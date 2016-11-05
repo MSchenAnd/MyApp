@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cn"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ.PHONE.STATE" />
+    <uses-permission android:name="android.permission.ACCESS.WIFI.STATE" />
+    <uses-permission android:name="android.permission.ACCESS.NETWORK.STATE" />
+
+    <application
+        android:name="com.wuxianedu.wechat.activity.core.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.wuxianedu.wechat.activity.WelcomActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.wuxianedu.wechat.activity.LoginActivity" />
+        <activity android:name="com.wuxianedu.wechat.activity.RegisteredActivity" />
+        <activity android:name="com.wuxianedu.wechat.activity.PictureActivity" />
+        <activity
+            android:name="com.wuxianedu.wechat.activity.MainActivity"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name="com.wuxianedu.wechat.activity.GroupChatActivity" />
+        <activity android:name="com.wuxianedu.wechat.activity.UserDetailsActivity" />
+        <activity android:name="com.wuxianedu.wechat.activity.FriendsActivity" />
+        <activity android:name="com.wuxianedu.wechat.activity.NewFriendsActivity" />
+        <activity android:name="com.wuxianedu.wechat.activity.ChatActivity" />
+        <activity android:name="com.wuxianedu.wechat.activity.InstallActivity" >
+            <action android:name="com.wuxianedu.wechat.activity.INSTALL" />
+
+            <category android:name="com.wuxianedu.wechat.activity.DEFAULT" />
+        </activity>
+        <activity android:name="com.wuxianedu.wechat.activity.SubscriptionActivity" />
+        <activity android:name="com.wuxianedu.wechat.activity.SubscriptionDetailsActivity" />
+
+        <service android:name="com.wuxianedu.wechat.activity.mi.ChatService" />
+    </application>
+
+</manifest>

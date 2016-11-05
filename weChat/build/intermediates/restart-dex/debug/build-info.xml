@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="23201415977396" >
+
+    <task
+        name="javac"
+        duration="1760" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1484" />
+    <task
+        name="verifier"
+        duration="188" />
+
+    <artifact
+        location="D:\AndroidStudio\worke\My\weChat\build\outputs\apk\weChat-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="23201415977396" >
+        <artifact
+            location="D:\AndroidStudio\worke\My\weChat\build\outputs\apk\weChat-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <Button android:id="@+id/setting_exitlogin" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="@string/install_but_text"/>
+    <Button android:id="@+id/setting_exit" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="@string/install_tut_exit"
+        android:layout_below="@id/setting_exitlogin"/>
+
+</RelativeLayout>

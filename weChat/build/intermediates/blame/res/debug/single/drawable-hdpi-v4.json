@@ -1,0 +1,1322 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_group.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_menu_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_021.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_021.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_032.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_032.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_031.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_031.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\contact_list_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_off.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\jy_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_collect.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_collect.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_ping.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_ping.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_014.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_014.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\find_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\balloon_l_pressed.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\balloon_l_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_user_bubble_pressed.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\skin_aio_user_bubble_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\afr.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\afr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\weixin_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_010.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_010.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_group.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_menu_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_saoyisao.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_saoyisao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_public.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_public.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_027.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_027.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback010.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback010.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_018.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_018.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_025.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_025.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_ba.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\user_ba.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_on.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\jy_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\profile_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_026.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_026.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_033.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_033.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback004.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback004.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_smail.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_smail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_023.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_023.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_nor.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\type_select_btn_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_000.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback002.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback002.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_shop.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_shop.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_menu_addfriend.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\contact_menu_addfriend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6_.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\a6_.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_camera.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_015.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_008.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_008.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_024.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_024.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_037.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_037.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_send_file.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_send_file.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl02.jpeg",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\girl02.jpeg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_031.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_031.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_smail.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_smail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abv.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\abv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_game.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_game.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_035.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_035.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_001.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_001.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_004.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_004.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_audio.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_audio.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\find_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_027.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_027.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_034.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_034.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_user_bubble_pressed.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\skin_aio_user_bubble_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_013.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_013.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\menu_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_photo.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl02.jpeg",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\girl02.jpeg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_003.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_003.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_camera.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_game.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_game.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_audio.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_audio.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_030.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_030.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\profile_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_022.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_022.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_018.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_018.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_public.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_public.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_036.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_036.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_card.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_card.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback011.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback011.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_icon.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addfriend.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_addfriend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_013.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_013.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_video.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_video.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_022.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_022.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_card.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_card.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_money.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_money.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\profile_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_014.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_014.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_nor.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\image_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_more.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_more.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_025.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_025.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\profile_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_037.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_037.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_setting.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chat_user.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_chat_user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6a.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\a6a.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_016.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_016.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\weixin_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_028.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_028.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_017.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_017.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_icon.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback006.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback006.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_user_bubble_nor.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\skin_aio_user_bubble_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addfriend.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_addfriend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_user_bubble_nor.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\skin_aio_user_bubble_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback005.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_normal.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\input_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\v2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_off.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\jy_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_edit_nor.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chat_edit_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\balloon_l_pressed.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\balloon_l_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_talk.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_talk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_menu_addfriend.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\contact_menu_addfriend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_selected.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\input_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_nor.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\image_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_yao.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_yao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_qunliao.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_qunliao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\find_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback001.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback001.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_photo.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_033.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_033.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\v2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\weixin_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_001.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_001.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abv.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\abv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\weixin_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_edit_nor.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chat_edit_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\spinner.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_029.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_029.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\afr.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\afr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_002.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_002.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_ba.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\user_ba.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\balloon_l.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\balloon_l.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_more.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_more.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback003.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback003.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_019.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_019.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_006.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_006.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_011.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_011.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\balloon_l.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\balloon_l.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_036.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_036.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\menu_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_send_file.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_send_file.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_selected.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\input_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_add.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_030.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_030.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_032.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_032.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_007.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_007.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chat_user.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_chat_user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6a.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\a6a.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_005.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_004.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_004.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback007.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback007.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback011.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback011.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popmenu_bg.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\popmenu_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_019.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_019.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_talk.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_talk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_009.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_009.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_024.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_024.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aii.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\aii.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_010.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_010.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback001.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback001.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_photo.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_edit_focut.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chat_edit_focut.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_017.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_017.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback008.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback008.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_enable.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_006.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_006.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_edit_focut.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chat_edit_focut.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_034.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_034.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_ping.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_ping.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_nearby.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_nearby.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_015.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_enable.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_qunliao.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_qunliao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popmenu_bg.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\popmenu_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_saoyisao.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_saoyisao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_addfriend.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_menu_addfriend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback004.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback004.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_009.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_009.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_location.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_location.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_008.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_008.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_female.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\ic_sex_female.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_on.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\jy_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_shop.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_shop.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback002.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback002.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_normal.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\input_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_029.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_029.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_money.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_money.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_035.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_035.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_yao.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_yao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_023.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_023.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_020.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_020.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_pressed.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\contact_list_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_sao.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_menu_sao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback008.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback008.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_021.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_021.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\find_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6_.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\a6_.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback007.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback007.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_000.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback005.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aii.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\aii.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_012.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_012.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_add.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_location.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_location.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_028.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_028.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_012.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_012.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_005.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_016.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_016.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback003.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback003.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_photo.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_003.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_003.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback010.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback010.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_collect.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_collect.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_nor.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\type_select_btn_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\spinner.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_002.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_002.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback006.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback006.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_nearby.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_de_nearby.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_007.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_007.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_011.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_011.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback009.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback009.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_video.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chat_tool_video.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_020.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_020.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_setting.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_me_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicesearch_feedback009.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\voicesearch_feedback009.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_addfriend.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_menu_addfriend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_female.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\ic_sex_female.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_normal.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f_static_026.png",
+        "source": "D:\\AndroidStudio\\worke\\MyApp\\weChat\\src\\main\\res\\drawable-hdpi\\f_static_026.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_sao.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\src\\main\\res\\drawable-hdpi\\icon_menu_sao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\worke\\My\\weChat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

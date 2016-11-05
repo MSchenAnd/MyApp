@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:id="@+id/groupchate_choose_group" android:layout_width="match_parent"
+        android:layout_height="45dp" android:text="@string/groupchate_choose_group"
+        android:textSize="15dp" android:gravity="center_vertical"
+        android:textColor="@color/black" android:paddingLeft="10dp"
+        android:background="@color/with"/>
+</RelativeLayout>

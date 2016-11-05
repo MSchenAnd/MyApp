@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:background="@color/gray">
+   
+    <RelativeLayout android:id="@+id/find_pyq" style="@style/me_child" 
+         android:layout_marginTop="15dp">
+         <ImageView android:id="@+id/find_pyq_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/v2"/>
+         <TextView android:id="@+id/find_pyq_tex" style="@style/me_child_text"
+ 				android:text="@string/find_pyq" android:layout_toRightOf="@id/find_pyq_imag" />
+          <ImageView android:id="@+id/find_pyq_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+     
+    <RelativeLayout android:id="@+id/find_saoyisao" style="@style/me_child" 
+         android:layout_marginTop="15dp">
+         <ImageView android:id="@+id/find_saoyisao_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_de_saoyisao"/>
+         <TextView android:id="@+id/find_saoyisao_tex" style="@style/me_child_text"
+ 				android:text="@string/find_sao" android:layout_toRightOf="@id/find_saoyisao_imag" />
+          <ImageView android:id="@+id/find_saoyisao_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+     <RelativeLayout android:id="@+id/find_yaoyiyao" style="@style/me_child" 
+         android:layout_marginTop="1dp">
+         <ImageView android:id="@+id/find_yaoyiyao_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_de_yao"/>
+         <TextView android:id="@+id/find_yaoyiyao_tex" style="@style/me_child_text"
+ 				android:text="@string/find_yao" android:layout_toRightOf="@id/find_yaoyiyao_imag" />
+          <ImageView android:id="@+id/find_yaoyiyao_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+     
+     <RelativeLayout android:id="@+id/find_fjr" style="@style/me_child" 
+         android:layout_marginTop="15dp">
+         <ImageView android:id="@+id/find_fjr_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_de_nearby"/>
+         <TextView android:id="@+id/find_fjr_tex" style="@style/me_child_text"
+ 				android:text="@string/find_jfr" android:layout_toRightOf="@id/find_fjr_imag" />
+          <ImageView android:id="@+id/find_fjr_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+     <RelativeLayout android:id="@+id/find_plp" style="@style/me_child" 
+         android:layout_marginTop="1dp">
+         <ImageView android:id="@+id/find_plp_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_de_ping"/>
+         <TextView android:id="@+id/find_plp_tex" style="@style/me_child_text"
+ 				android:text="@string/find_plp" android:layout_toRightOf="@id/find_plp_imag" />
+          <ImageView android:id="@+id/find_plp_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+     
+     <RelativeLayout android:id="@+id/find_gw" style="@style/me_child" 
+         android:layout_marginTop="15dp">
+         <ImageView android:id="@+id/find_gw_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_de_shop"/>
+         <TextView android:id="@+id/find_gw_tex" style="@style/me_child_text"
+ 				android:text="@string/find_gw" android:layout_toRightOf="@id/find_gw_imag" />
+          <ImageView android:id="@+id/find_gw_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+     <RelativeLayout android:id="@+id/find_yx" style="@style/me_child" 
+         android:layout_marginTop="1dp">
+         <ImageView android:id="@+id/find_yx_imag" style="@style/me_imageleft_style"
+             android:src="@drawable/icon_de_game"/>
+         <TextView android:id="@+id/find_yx_tex" style="@style/me_child_text"
+ 				android:text="@string/find_yx" android:layout_toRightOf="@id/find_yx_imag" />
+          <ImageView android:id="@+id/find_yx_rightim" style="@style/me_imageright_style" 
+              android:src="@drawable/right"/>
+     </RelativeLayout>
+     
+
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+     <include android:id="@+id/userdetails_title" layout="@layout/activity_title"/>
+    <com.wuxianedu.wechat.widgt.RoundImageView android:id="@+id/weixinlist_img" 
+        android:layout_width="70dp" android:layout_height="70dp"
+       android:src="@drawable/user_ba" android:layout_margin="15dp" 
+       android:layout_below="@id/userdetails_title"/>
+	<TextView android:id="@+id/userdetails_username" android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignTop="@id/weixinlist_img" android:layout_marginTop="10dp"
+	    android:layout_toRightOf="@id/weixinlist_img" android:textColor="@color/black"
+	    android:textSize="15dp"/>
+	<TextView android:id="@+id/userdetails_wechatnum" android:layout_width="wrap_content"
+	    android:layout_height="wrap_content" android:text="@string/userdetails_id"
+	    android:layout_below="@id/userdetails_username" android:layout_toRightOf="@id/weixinlist_img"
+	    android:layout_marginTop="5dp"/>
+	
+	<RelativeLayout android:id="@+id/userdetails_xx" android:layout_width="match_parent"
+	    android:layout_height="wrap_content" android:layout_below="@id/weixinlist_img"
+	    android:background="@color/with">
+	    <TextView android:id="@+id/userdetails_area" style="@style/userdetails_text"
+	        android:text="@string/userdetails_area_text"/>
+	    <TextView android:id="@+id/userdetails_area_text" style="@style/userdetails_text"
+	        android:layout_toRightOf="@id/userdetails_area"
+	        android:layout_marginLeft="55dp"/>
+	    <View android:id="@+id/line1" android:layout_width="match_parent"
+	        android:layout_height="0.5dp" android:background="@color/userdetails_line_color"
+	        android:layout_marginLeft="10dp" android:layout_marginRight="10dp"
+	        android:layout_below="@id/userdetails_area"/>
+	     <TextView android:id="@+id/userdetails_signature" style="@style/userdetails_text"
+	        android:text="@string/userdetails_signature_text" android:layout_below="@id/line1"/>
+	     
+	     <TextView android:id="@+id/userdetails_signature_text" android:layout_width="wrap_content"
+	         android:layout_height="50dp" android:gravity="center"
+	        android:layout_toRightOf="@id/userdetails_signature"
+	        android:layout_below="@id/line1"
+	        android:layout_alignLeft="@id/userdetails_area_text"/>
+	     
+	     <View android:id="@+id/line2" android:layout_width="match_parent"
+	        android:layout_height="0.5dp" android:background="@color/userdetails_line_color"
+	        android:layout_marginLeft="10dp" android:layout_marginRight="10dp"
+	        android:layout_below="@id/userdetails_signature"/>
+	     
+	     <TextView android:id="@+id/userdetails_gallery_text" style="@style/userdetails_text"
+	        android:text="@string/userdetails_gallery_text" android:layout_below="@id/line2"/>
+	     
+	     <GridView android:id="@+id/userdetails_gallery" android:layout_width="wrap_content"
+	         android:layout_height="50dp" android:layout_below="@id/line2"
+	        android:layout_toRightOf="@id/userdetails_gallery" android:numColumns="3"
+	        android:horizontalSpacing="1dp"
+	        android:layout_alignLeft="@id/userdetails_area_text"/>
+	    
+	</RelativeLayout>
+	
+	<Button android:id="@+id/userdetails_message" android:layout_width="match_parent"
+	    android:layout_height="40dp" android:text="@string/userdetails_message"
+	    android:textColor="@color/with" android:background="@drawable/button_green"
+	    android:layout_below="@id/userdetails_xx" android:layout_marginTop="20dp"
+	    android:layout_marginLeft="10dp" android:layout_marginRight="10dp"/>
+</RelativeLayout>

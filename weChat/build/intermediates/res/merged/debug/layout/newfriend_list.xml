@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp" android:background="@color/with">
+    <com.wuxianedu.wechat.widgt.RoundImageView android:id="@+id/newfriend_listimg"
+        android:layout_width="50dp" android:layout_height="50dp"
+        android:layout_marginTop="5dp" android:layout_marginLeft="10dp"
+        android:src="@drawable/user_ba"/>
+    <TextView android:id="@+id/newfriend_listusername" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/newfriend_listimg"
+        android:layout_marginLeft="10dp"/>
+    
+    <Button android:id="@+id/newfriend_listbut" android:layout_width="50dp"
+        android:layout_height="30dp" android:textColor="@color/with"
+        android:layout_alignParentRight="true" android:layout_centerVertical="true"
+        android:layout_marginRight="5dp" android:padding="0dp"
+        android:gravity="center" android:textSize="11dp"/>
+
+</RelativeLayout>
